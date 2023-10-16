@@ -1,0 +1,19 @@
+h1 {
+    color: rgb(189, 193, 198);
+    display: inline;
+    font-family: arial, sans-serif;
+    font-size: 19px;
+    font-weight: 700;
+  }
+  
+  ul {
+    color: rgb(154, 160, 166);
+    display: block;
+    font-family: arial, sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    height: 16px;
+    line-height: 1;
+    list-style-type: none;
+  }
+  
